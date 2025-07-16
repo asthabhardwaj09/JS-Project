@@ -1,6 +1,4 @@
-# JS-Project
-
-BG changer using js here we have used DOM
+# BG changer using js using DOM
 
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
